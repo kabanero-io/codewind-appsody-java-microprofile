@@ -1,1 +1,1 @@
-# knJavaMicroProfile
+# knJavaMicroProfileTemplate
