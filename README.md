@@ -1,1 +1,1 @@
-# knJavaMicroProfileTemplate
+# codewind-appsody-java-microprofile
